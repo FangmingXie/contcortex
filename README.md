@@ -1,2 +1,2 @@
-# cortical_continuum
+# contcortex
 with Jain lab
